@@ -1,0 +1,40 @@
+.score-board {
+  margin-top: 120px;
+}
+.score-board>div{
+margin-bottom: 20px;
+}
+.header .btn-primary, .btn-danger{
+  margin-right: 8px;
+}
+.current-score{
+  margin: 0 12px;
+}
+li{
+  font-size: 18px;
+}
+.pull-right .btn-light{
+  font-size: 18px;
+}
+.remove-btn{
+  color: red;
+  margin-right: 12px;
+  cursor: pointer;
+}
+.timer-data span{
+  font-size: 16px;
+}
+.stats-data {
+  font-size: 16px;
+}
+.header h1{
+  color: #53B46F;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 36px;
+  text-align: center;
+}
+.list-group-item .playerName{
+  cursor: pointer;
+}
+
